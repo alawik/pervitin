@@ -2,7 +2,7 @@
 
 ![](pervitin.png)
 
-Fast web app prototyping stack tool. Deploy and server PocketBase backend and Svelte frontend together on localhost.
+Fast web app prototyping stack tool. Deploy and serve PocketBase backend and Svelte frontend together on localhost.
 
 ```sh
 chmod +x pervitin.sh
